@@ -32,8 +32,9 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hi",
+        "I like to play Minecraft!",
+        "im a furry"
       ]
     },
     "chat-log": true,
@@ -45,7 +46,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 5,
       "speed": 3000
     },
     "look-around": {
