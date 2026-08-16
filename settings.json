@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": " cdabaddb.aternos.me:16537",
+    "ip": " cdabaddb.aternos.me ",
     "port": 16537,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
