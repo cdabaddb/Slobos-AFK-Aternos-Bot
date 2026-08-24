@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " havanese.aternos.host",
+    "ip": "185.107.192.201",
     "port": 16537,
     "version": "26.2",
     "try-creative": false
